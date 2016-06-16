@@ -1,2 +1,2 @@
 import os
-os.system("python cin.py | python cout.py")
+os.system("start python cin.py & start python cout.py")

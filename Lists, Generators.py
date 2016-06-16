@@ -10,6 +10,10 @@ for i in mylist:
 	print i,
 print 
 
+
+#to do: sort funtion for a list
+
+
 div6 = [x for x in range (20) if x%2 == 0 and x%3 == 0]
 print 'div = ',div6[0:5]
 
@@ -20,6 +24,8 @@ print v
 s = "python is awesome"
 v = s.split()
 print v
+
+
 
 #read-only list
 
